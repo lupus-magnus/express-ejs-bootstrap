@@ -1,0 +1,27 @@
+body {
+  padding: 0px;
+  margin: 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+a {
+  color: #00b7ff;
+}
+
+img {
+  max-height: 80px;
+  max-width: 30%;
+  width: auto;
+}
+
+.welcome {
+  min-height: 60vh;
+}
+
+.footer {
+  background: #ccc;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
